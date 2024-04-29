@@ -1,0 +1,25 @@
+.wrapper {
+}
+
+.accordion {
+    font-family: "system-ui", "sans-serif";
+    text-align: center;
+
+}
+
+.item {
+    border: 1px solid black;
+    max-width: 350px;
+    margin: 10px;
+    background-color: #80BCBD;
+}
+
+.center {
+    text-align: center;
+}
+
+.answer {
+    background-color: #AAD9BB;
+    font-family: "Apple Chancery", "sans-serif";
+}
+
